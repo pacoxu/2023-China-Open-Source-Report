@@ -42,7 +42,7 @@ For a definition of this indicator, refer to：
 
 First, the total number of events logs for statistical analysis across GitHub is shown in the graph below.
 
-![1-1](/image/data/chapter_1/1-1.png)
+![1-1](/public/image/data/chapter_1/1-1.png)
 
 <center>Figure 1.1 Trends in GitHub annual events </center>
 <br> 
@@ -53,7 +53,7 @@ The overall activity of global open sources and the number of active warehouses 
 
 Because of the size of the events active on the GitHub platform, the subsequent analysis was built on the benchmark of the top 30,000 active warehouses per platform. For ease of comparison, we have selected GitHub for statistical analysis of 8 categories of events of greater relevance to open source participation in Gitee, including CommunityCommentEvent, ForkEvent, IssueCommentEvent, IssuesEvent, FullRequestEvent, FullRequestReviewCommentEvent, PushEvent, and WatchEvent.
 
-![1-2](/image/data/chapter_1/1-2.png)
+![1-2](/public/image/data/chapter_1/1-2.png)
 
 <center>Figure 1.2 GitHub and Gitee Active Repository Events </center>
 <br> 
@@ -64,7 +64,7 @@ However, it must be emphasized that data on the first 30,000 active projects alo
 
 Further to the analysis of disaggregated data on underlying events, the results are shown in the figure below.
 
-![1-3](/image/data/chapter_1/1-3.png)
+![1-3](/public/image/data/chapter_1/1-3.png)
 
 <center>Figure 1.3 GitHub vs. Gitee Active Repository Event Types </center>
 <br> 
@@ -78,7 +78,7 @@ On the Gitee platform, event data grew significantly in 2020, initially focusing
 
 For the GitLink platform, we have also selected the top 30,000 active repositories as benchmarks. Given the limitations of the data, only data covering the six types of events—CommunityCommentEvent, ForkEvent, IssueCommentEvent, IssuesEvent, FullRequestEvent, and WatchEvent—were selected for analysis.
 
-![1-17](/image/data/chapter_1/1-17.png)
+![1-17](/public/image/data/chapter_1/1-17.png)
 
 <center>Data analysis of events on the GitLink platform </center>
 <br> 
@@ -91,7 +91,7 @@ While the number of active repository events on GitLink still lags behind platfo
 
 The following figure shows the statistical analysis of the overall activity trends of GitHub and Gitee active repositories.
 
-![1-4](/image/data/chapter_1/1-4.png)
+![1-4](/public/image/data/chapter_1/1-4.png)
 
 <center>Figure 1.5 Trends in the number of GitHub annual active repositories </center>
 <br>
@@ -105,14 +105,14 @@ Because of the gap in the number of GitHub and Gitee warehouses, the following a
 
 The graph below shows the statistical analysis of GitHub and Gitee's overall activity in the repositories.
 
-![1-5](/image/data/chapter_1/1-5.png)
+![1-5](/public/image/data/chapter_1/1-5.png)
 
 <center>Figure 1.6 GitHub vs. Gitee active repository activity </center>
 <br>
 
 Looking at the activity data of the top 30,000 active repositories from each platform, the overall activity on the Gitee platform grew rapidly from 2019 onwards. By 2022, it surpassed GitHub and maintained this high-growth trend, revealing the enormous vitality of open-source development in China during this period.
 
-![1-6](/image/data/chapter_1/1-6.png)
+![1-6](/public/image/data/chapter_1/1-6.png)
 
 <center>Figure 1.7 GitHub compared to Gitee active repository activity </center>
 <br>
@@ -128,7 +128,7 @@ On the Gitee platform, the highest activity contribution comes from reviewing PR
 
 The graph below shows the statistical analysis of GitHub and Gitee's active repository, OpenRank trends.
 
-![1-7](/image/data/chapter_1/1-7.png)
+![1-7](/public/image/data/chapter_1/1-7.png)
 
 <center>Figure 1.8 GitHub vs. Gitee Active Repository OpenRank </center>
 <br>
@@ -142,7 +142,7 @@ Although the activity of the top 30,000 repositories on Gitee briefly surpassed 
 
 The following figure presents a statistical analysis of the overall active user count on GitHub.
 
-![1-8](/image/data/chapter_1/1-8.png)
+![1-8](/public/image/data/chapter_1/1-8.png)
 
 <center>Figure 1.9 Trends in GitHub annual active users </center>
 <br>
@@ -159,7 +159,7 @@ The following analysis is based on approximately 2 million developers who have c
 
 First, analyze developers' geographical distribution worldwide, as shown in the following chart.
 
-![1-9](/image/data/chapter_1/1-9.png)
+![1-9](/public/image/data/chapter_1/1-9.png)
 
 <center> Figure 1.10 Global geographical distribution of developers </center>
 <br>
@@ -197,7 +197,7 @@ Overall, developers from various countries are continuously increasing:
 
 Further analysis shows the geographical distribution of Chinese developers, as shown in the graph below\.Of these, the data sources are almost 150,000 developers of “China” users who correctly fill out provincial information.
 
-![1-10](/image/data/chapter_1/1-10.png)
+![1-10](/public/image/data/chapter_1/1-10.png)
 
 <center> Figure 1.11 Geographical distribution of Chinese developers </center>
 <br>
@@ -252,7 +252,7 @@ The analysis revealed that the most used open-source licenses are currently avai
 
 Statistical analysis has been conducted on the trends of open-source license types, as shown in the following figures.
 
-![1-12](/image/data/chapter_1/1-12.png)
+![1-12](/public/image/data/chapter_1/1-12.png)
 
 <center> Figure 1.13  Trends in the Number of Open Source License Types </center>
 <br>
@@ -267,7 +267,7 @@ According to Github's log data, in 2023, nearly 7.7 million active repositories 
 
 Statistical analysis of the trends in the number of repositories using the MIT License is shown in the following figure.
 
-![1-13](/image/data/chapter_1/1-13.png)
+![1-13](/public/image/data/chapter_1/1-13.png)
 
 <center> Figure 1.14: Trends in the Number of Repositories Using the MIT License </center>
 <br>
@@ -281,7 +281,7 @@ Observations:
 
 The following figure shows a statistical analysis of the trends in the number of repositories using other top-five open-source licenses.
 
-![1-14](/image/data/chapter_1/1-14.png)
+![1-14](/public/image/data/chapter_1/1-14.png)
 
 <center> Figure 1.15: Trends in the Number of Repositories Using Other Licenses </center>
 <br>
@@ -296,7 +296,7 @@ Observations:
 
 The following figure shows a statistical analysis of the trends in the number of repositories using the Mulan Series Licenses.
 
-![1-15](/image/data/chapter_1/1-15.png)
+![1-15](/public/image/data/chapter_1/1-15.png)
 
 <center> Figure 1.16 Accumulative Trends in the Number of Repositories Using the Mulan Series Licenses </center>
 <br>
@@ -345,7 +345,7 @@ From the table above:
 
 Statistical analysis of developers' programming language usage trends from 2019 to 2023 is depicted in the following figure.
 
-![1-16](/image/data/chapter_1/1-16.png)
+![1-16](/public/image/data/chapter_1/1-16.png)
 
 <center>Figure 1.17: Trends in Programming Language Usage from 2019 to 2023</center>
 <br>
@@ -368,13 +368,13 @@ With the addition of global data from both GitHub and Gitee this year, we are ab
 
 ### 2.1 Global Open Source Repository OpenRank Rankings
 
-![2-1](/image/data/chapter_2/2-1.png)
+![2-1](/public/image/data/chapter_2/2-1.png)
 
 <center> Figure 2.1 Global Open Source Project OpenRank Rankings (Top 20) </center>
 
 ### 2.2 China Open Source Project OpenRank Rankings
 
-![2-2](/image/data/chapter_2/2-2.png)
+![2-2](/public/image/data/chapter_2/2-2.png)
 
 <center> Figure 2.2 China Open Source Project OpenRank Rankings (Top 20) </center>
 <br>
@@ -383,7 +383,7 @@ With the addition of global data from both GitHub and Gitee this year, we are ab
 
 ### 2.3 Global Enterprise OpenRank Rankings
 
-![2-3](/image/data/chapter_2/2-3.png)
+![2-3](/public/image/data/chapter_2/2-3.png)
 
 <center> Figure 2.3 Global Enterprise OpenRank Rankings (Top 20) </center>
 <br>
@@ -392,19 +392,19 @@ With the addition of global data from both GitHub and Gitee this year, we are ab
 
 ### 2.4 China Enterprise OpenRank Rankings
 
-![2-4](/image/data/chapter_2/2-4.png)
+![2-4](/public/image/data/chapter_2/2-4.png)
 
 <center> Figure 2.4 China Enterprise OpenRank Rankings (Top 20) </center>
 
 ### 2.5 Global Foundation OpenRank Rankings
 
-![2-5](/image/data/chapter_2/2-5.png)
+![2-5](/public/image/data/chapter_2/2-5.png)
 
 <center> Figure 2.5 Global Foundation OpenRank Rankings (Top 10) </center>
 
 ### 2.6 Country and Region OpenRank Rankings
 
-![2-6](/image/data/chapter_2/2-6.png)
+![2-6](/public/image/data/chapter_2/2-6.png)
 
 <center> Figure 2.6 Country and Region OpenRank Rankings (Top 20) </center>
 <br>
@@ -413,13 +413,13 @@ With the addition of global data from both GitHub and Gitee this year, we are ab
 
 ### 2.7 Global Developer OpenRank Rankings
 
-![2-7](/image/data/chapter_2/2-7.png)
+![2-7](/public/image/data/chapter_2/2-7.png)
 
 <center> Figure 2.7 Global Developer OpenRank Rankings (Top 30) </center>
 
 ### 2.8 China Developer OpenRank Rankings
 
-![2-8](/image/data/chapter_2/2-8.png)
+![2-8](/public/image/data/chapter_2/2-8.png)
 
 <center> Figure 2.8 China Developer OpenRank Rankings (Top 30) </center>
 <br>
@@ -433,10 +433,10 @@ Enterprises are the core force driving the development of the global open-source
 
 ### 3.1 Evolution of Global Enterprise OpenRank Over the Past 10 Years
 
-![3-1](/image/data/chapter_3/3-1.png)
+![3-1](/public/image/data/chapter_3/3-1.png)
 
 
-![3-1](/image/data/chapter_3/3-1.png)
+![3-1](/public/image/data/chapter_3/3-1.png)
 
 <center> Figure 3.1 Changes in China Enterprise OpenRank Rankings </center>
 <br>
@@ -452,7 +452,7 @@ Observations on the global impact of enterprise open source are as follows:
 
 ### 3.2 Evolution of China Enterprise OpenRank Over the Past 10 Years
 
-![3-2](/image/data/chapter_3/3-2.png)
+![3-2](/public/image/data/chapter_3/3-2.png)
 
 <center> Figure 3.2 Changes in China Enterprise OpenRank Rankings </center>
 <br>
@@ -549,11 +549,11 @@ The technology field is rapidly evolving, especially in various subfields. **Ope
 
 ### 5.1 Overall development trend of six major technology areas in the past five years
 
-![5-1](/image/data/chapter_5/5-1.png)
+![5-1](/public/image/data/chapter_5/5-1.png)
 
 <center> Figure 5.1 Trends in OpenRank by subfield over the last 5 years </center>
 
-![5-2](/image/data/chapter_5/5-2.png)
+![5-2](/public/image/data/chapter_5/5-2.png)
 
 <center> Figure 5.2 Trends in activity by subfield over the past five years </center>
 <br>
@@ -564,11 +564,11 @@ Cloud-native computing and artificial intelligence (AI) have gained popularity i
 
 #### 5.2.1 Cloud Native
 
-![5-3](/image/data/chapter_5/5-3.png)
+![5-3](/public/image/data/chapter_5/5-3.png)
 
 <center> Figure 5.3 Trends in the Cloud-Native Top 10 OpenRank Projects over the Last Five Years </center>
 
-![5-4](/image/data/chapter_5/5-4.png)
+![5-4](/public/image/data/chapter_5/5-4.png)
 
 <center> Figure 5.4 Cloud-Native Top 10 Active Project Trends in the Last Five Years
 </center>
@@ -578,11 +578,11 @@ Both indicators of Kubernetes have significantly decreased, while Grafana has em
 
 #### 5.2.2 Artificial intelligence
 
-![5-5](/image/data/chapter_5/5-5.png)
+![5-5](/public/image/data/chapter_5/5-5.png)
 
 <center> Figure 5.5 Trends in the AI Top 10 OpenRank Projects over the Last Five Years </center>
 
-![5-6](/image/data/chapter_5/5-6.png)
+![5-6](/public/image/data/chapter_5/5-6.png)
 
 <center> Figure 5.6 Artificial Intelligence Top 10 Active Project Trends in the Last Five Years
 </center>
@@ -592,11 +592,11 @@ TensorFlow has been declining and is out of the top 5, while Pytorch is growing 
 
 #### 5.2.3 Big Data
 
-![5-7](/image/data/chapter_5/5-7.png)
+![5-7](/public/image/data/chapter_5/5-7.png)
 
 <center> Figure 5.7 Trends in the Big Data Top 10 OpenRank Projects in the Last Five Years </center>
 
-![5-8](/image/data/chapter_5/5-8.png)
+![5-8](/public/image/data/chapter_5/5-8.png)
 
 <center> Figure 5.8 Big Data Top 10 Active Projects Trends in the Last 5 Years </center>
 <br>
@@ -609,12 +609,12 @@ Grafana is an open-source tool for monitoring and reporting. It can visualize da
 
 #### 5.2.4 Database
 
-![5-9](/image/data/chapter_5/5-9.png)
+![5-9](/public/image/data/chapter_5/5-9.png)
 
 <center> Figure 5.9 Trends in the Database Top 10 OpenRank Projects over the Last Five Years
 </center>
 
-![5-10](/image/data/chapter_5/5-10.png)
+![5-10](/public/image/data/chapter_5/5-10.png)
 
 <center> Figure 5.10 Database Top 10 Active Project Trends in the Last Five Years </center>
 <br>
@@ -627,11 +627,11 @@ Apache Doris is contributed by Baidu open source MPP analytical database product
 
 #### 5.2.5 Frontend
 
-![5-11](/image/data/chapter_5/5-11.png)
+![5-11](/public/image/data/chapter_5/5-11.png)
 
 <center> Figure 5.11 Trends in the Frontend Top 10 OpenRank Projects over the Last Five Years </center>
 
-![5-12](/image/data/chapter_5/5-12.png)
+![5-12](/public/image/data/chapter_5/5-12.png)
 
 <center> Figure 5.12 Frontend Top 10 Active Project Trends in the Last Five Years </center>
 <br>
@@ -644,12 +644,12 @@ Next.js is an open source platform created by Vercel, built with Node.js and Bab
 
 #### 5.2.6 Operating system
 
-![5-13](/image/data/chapter_5/5-13.png)
+![5-13](/public/image/data/chapter_5/5-13.png)
 
 <center> Figure 5.13 Trends in the Operating System Top 10 OpenRank Projects over the Last Five Years </center>
 <br>
 
-![5-14](/image/data/chapter_5/5-14.png)
+![5-14](/public/image/data/chapter_5/5-14.png)
 
 <center> Figure 5.14 Operating System Top 10 Active Project Trends in the Last Five Years </center>
 <br>
@@ -890,11 +890,11 @@ The OpenRank and activity rankings for 2023 for each sub-domain of the database 
 
 #### 6.3.2 Trends over the last five years in projects under the various subfields of the database area
 
-![6-6](/image/data/chapter_6/6-6.png)
+![6-6](/public/image/data/chapter_6/6-6.png)
 
 Figure 6.6 Trends in OpenRank by Subdomain in Database Domain (2019 - 2023)
 
-![6-7](/image/data/chapter_6/6-7.png)
+![6-7](/public/image/data/chapter_6/6-7.png)
 
 Figure 6.7 Trends in Activity by Subdomain in Database Domain (2019 - 2023)
 
@@ -1071,7 +1071,7 @@ This analysis, like the one in Section 1.3, is based on 10 million active GitHub
 
 The number of active developers on GitHub was first visualized on a map, as shown below.
 
-![7-1.png](/image/data/chapter_7/7-1.png)
+![7-1.png](/public/image/data/chapter_7/7-1.png)
 
 Figure 7.1 2023 GitHub Active Developers Distribution Map
 <br>
@@ -1080,7 +1080,7 @@ GitHub developers are concentrated in areas with large populations and fast inte
 
 **2. GitHub Active Developers by Country / Region**
 
-![7-2.png](/image/data/chapter_7/7-2.png)
+![7-2.png](/public/image/data/chapter_7/7-2.png)
 
 <center>Figure 7.2 GitHub Active Developers by Country / Region
 </center>
@@ -1108,7 +1108,7 @@ The United States has the largest number of developers, followed by China, India
 
 The graph below visualizes the distribution of the number of active developers on GitHub on a map.
 
-![7-4.png](/image/data/chapter_7/7-4.png)
+![7-4.png](/public/image/data/chapter_7/7-4.png)
 
 <center>Figure 7.3 2023 Distribution of Active Developers in China </center>
 <br>
@@ -1135,7 +1135,7 @@ Beijing is found to have the most GitHub users in China, followed by Shanghai, G
 
 Trying to do the aggregation with the OpenRank value of the developers in each region, we get the influence distribution map and regional ranking of Chinese developers, as shown in the following graph.
 
-![7-3.png](/image/data/chapter_7/7-3.png)
+![7-3.png](/public/image/data/chapter_7/7-3.png)
 
 <center> Figure 7.4 OpenRank influence distribution of Chinese developers </center>
 <br>
@@ -1171,14 +1171,14 @@ This section analyzes the working hours of GitHub and Gitee developers. By defau
 
 According to statistics on developers' working hours across GitHub, the majority of developers work between 6 and 21 hours. There is a higher concentration of developers working at 12 o'clock, likely due to timed tasks. Weekends (Saturdays and Sundays) are relatively inactive.
 
-![7-5.png](/image/data/chapter_7/7-5.png)
+![7-5.png](/public/image/data/chapter_7/7-5.png)
 
 <center>Figure 7.5 GitHub-wide developer working hours in 2023</center>
 <br>
 
 **Distribution of working hours of Gitee-wide developers**
 
-![7-6.png](/image/data/chapter_7/7-6.png)
+![7-6.png](/public/image/data/chapter_7/7-6.png)
 
 <center>Figure 7.6 Gitee-wide developer working hours in 2023</center>
 <br>
@@ -1187,7 +1187,7 @@ The Gitee data clearly aligns more with the East Eighth Time Zone's work time ro
 
 **Global developer working hours distribution, excluding bots**
 
-![7-7.png](/image/data/chapter_7/7-7.png)
+![7-7.png](/public/image/data/chapter_7/7-7.png)
 
 <center>Figure 7.7 2023 Global Developers' Working Hours, Excluding Robots</center>
 <br>
@@ -1202,28 +1202,28 @@ Distribution of working hours on the top four OpenRank projects in the global Gi
 
 1. NixOS/Nixpkg
 
-![7-8.png](/image/data/chapter_7/7-8.png)
+![7-8.png](/public/image/data/chapter_7/7-8.png)
 
 <center>Figure 7.8 NixOS/nixpgs Working Hours in 2023</center>
 <br>
 
 2. Home-assistanceant/core
 
-![7-9.png](/image/data/chapter_7/7-9.png)
+![7-9.png](/public/image/data/chapter_7/7-9.png)
 
 <center>Figure 7.9 home-assistant/core Working Hours in 2023</center>
 <br>
 
 3. microsoft/vscode
 
-![7-10.png](/image/data/chapter_7/7-10.png)
+![7-10.png](/public/image/data/chapter_7/7-10.png)
 
 <center>Figure 7.10 Microsoft/vscode Working Hours in 2023</center>
 <br>
 
 4. MicrosoftDocs/azure-docs
 
-![7-11.png](/image/data/chapter_7/7-11.png)
+![7-11.png](/public/image/data/chapter_7/7-11.png)
 
 <center>Figure 7.11 MicrosoftDocs/azure-docs Working Hours in 2023</center>
 <br>
@@ -1232,28 +1232,28 @@ Distribution of working hours on the top four OpenRank projects in the global Gi
 
 1. OpenHarmony
 
-![7-12.png](/image/data/chapter_7/7-12.png)
+![7-12.png](/public/image/data/chapter_7/7-12.png)
 
 <center>Figure 7.12 OpenHarmony Working Hours in 2023</center>
 <br>
 
 2. openEuler
 
-![7-13.png](/image/data/chapter_7/7-13.png)
+![7-13.png](/public/image/data/chapter_7/7-13.png)
 
 <center>Figure 7.13 openEuler Working Hours in 2023</center>
 <br>
 
 3. PaddlePaddle
 
-![7-14.png](/image/data/chapter_7/7-14.png)
+![7-14.png](/public/image/data/chapter_7/7-14.png)
 
 <center>Figure 7.14 PaddlePaddle Working Hours in 2023</center>
 <br>
 
 4. MindSpore
 
-![7-15.png](/image/data/chapter_7/7-15.png)
+![7-15.png](/public/image/data/chapter_7/7-15.png)
 
 <center>Figure 7.15 MindSpore Working Hours in 2023</center>
 <br>
@@ -1275,7 +1275,7 @@ This section categorizes GitHub users into four roles: **Explorer**, **Participa
 
 The figure below shows the four cascaded and structured roles. Using the defined role structure, we evaluate the top 10 projects in the OpenRank rankings of GitHub-wide projects from three perspectives: number of roles, time change, and developer role evolution. This is based on the project ranking list in Part II.
 
-![7-16.png](/image/data/chapter_7/7-16.png)
+![7-16.png](/public/image/data/chapter_7/7-16.png)
 
 <center>Figure 7.16 Developer Roles and Relationships</center>
 <br>
@@ -1301,7 +1301,7 @@ The figure below shows the four cascaded and structured roles. Using the defined
 
 <br>
 
-![7-17.png](/image/data/chapter_7/7-17.png)
+![7-17.png](/public/image/data/chapter_7/7-17.png)
 
 <center> Figure 7.17 Developer Role Distribution Map </center>
 <br>
@@ -1320,7 +1320,7 @@ For example, if A submits a PR to Project B in 2021 (but never participates in t
 
 The details of the roles added are shown in the graph below and the table below.
 
-![7-18.png](/image/data/chapter_7/7-18.png)
+![7-18.png](/public/image/data/chapter_7/7-18.png)
 
 <center>Figure 7.18 Map of new roles in the open source community in 2023 </center>
 <br>
@@ -1353,7 +1353,7 @@ The results showed:
 
 The developer evolution process is defined as the number of roles in an open-source community that moves to other roles. This report only measures the number of developers who have moved from one role to a more profound one. For example, a user who participated until 2023 will change from a participant to a contributor in 2023 when they make their first PR.
 
-![7-19.png](/image/data/chapter_7/7-25.png)
+![7-19.png](/public/image/data/chapter_7/7-25.png)
 
 <center> Figure 7.19 Developer Role Evolution Diagram </center>
 <br>
@@ -1404,7 +1404,7 @@ Despite the small number of bot accounts, each bot serves multiple repositories,
 
 #### 7.4.2 Analysis of event types for robots
 
-![7-22.png](/image/data/chapter_7/7-22.png)
+![7-22.png](/public/image/data/chapter_7/7-22.png)
 
 <center> Figure 7.21 Difference in number and annual growth rate (%) of GitHub event counts (2022 vs 2023)</center>
 <br>
@@ -1422,7 +1422,7 @@ This graph shows the change in the number of GitHub events by type and their gro
 
 Similar to the developer working hours distribution, we also analyzed the data on the working hours of bot accounts.
 
-![7-23.png](/image/data/chapter_7/7-23.png)
+![7-23.png](/public/image/data/chapter_7/7-23.png)
 
 <center> Figure 7.22 Distribution of robot account working hours </center>
 <br>
@@ -1433,7 +1433,7 @@ Similar to the developer working hours distribution, we also analyzed the data o
 
 #### 7.4.4 GitHub's top list of incidents for collaborative bots
 
-![7-24.png](/image/data/chapter_7/7-24.png)
+![7-24.png](/public/image/data/chapter_7/7-24.png)
 
 <center>Figure 7.23 2023 GitHub's top list of incidents for collaborative bots</center>
 <br>
@@ -1458,7 +1458,7 @@ To summarize, the openEuler community has achieved a high OpenRank value thanks 
 
 We analyzed how Chinese developers contributed to the top 30 repositories in the OpenRank ranking list for 2023 using data from almost 10 million GitHub developer accounts, including nearly 200,000 from China:
 
-![8-1.png](/image/data/chapter_8/8-1.png)
+![8-1.png](/public/image/data/chapter_8/8-1.png)
 
 <center>Figure 8.1 Top 30 Contributed Repositories by Chinese Developers on GitHub</center>
 <br>
@@ -1487,7 +1487,7 @@ Most of the projects are represented in the master OpenRank list, the more inter
 
 - [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) This is a fascinating project aimed at automating daily quests for the game Tomorrow's Ark using a script assistant. The automation can be achieved through a mobile phone simulator. The project is community-maintained, open source, free, and supports all desktop platforms. It has received over 10,000 stars and has more than 300 active contributors every month, which is fantastic.
 
-![8-3.png](/image/data/chapter_8/8-3.png)
+![8-3.png](/public/image/data/chapter_8/8-3.png)
 
 <center>Figure 8.3 MaaAssistantArknights Project Screenshot
 </center>

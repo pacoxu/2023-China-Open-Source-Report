@@ -46,7 +46,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 首先，统计分析全域 GitHub 的事件⽇志总体数量，如下图所示。
 
 
-![1-1](/image/data/chapter_1/1-1.png)
+![1-1](/public/image/data/chapter_1/1-1.png)
 
 <center>图 1.1 GitHub 年度事件数趋势 </center>
 <br> 
@@ -57,7 +57,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 由于 GitHub 平台活跃事件的庞大，接下来的分析工作，建立在每个平台的前 3 万个活跃仓库的基准之上。为了方便比较，我们选取了 GitHub 与 Gitee 中与开源参与相关性较大的 8 类事件进行统计分析，包括 CommitCommentEvent、ForkEvent、IssueCommentEvent、IssuesEvent、PullRequestEvent、PullRequestReviewCommentEvent、PushEvent 和 WatchEvent。
 
-![1-2](/image/data/chapter_1/1-2.png)
+![1-2](/public/image/data/chapter_1/1-2.png)
 
 
 <center>图 1.2 GitHub 与 Gitee 活跃仓库事件数 </center>
@@ -69,7 +69,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 再进一步，分析基础事件的细分领域数据，结果如下图所示。
 
-![1-3](/image/data/chapter_1/1-3.png)
+![1-3](/public/image/data/chapter_1/1-3.png)
 
 
 <center>图 1.3 GitHub 与 Gitee 活跃仓库事件类型对比 </center>
@@ -84,7 +84,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 对于 GitLink 平台，我们同样选择了前 3 万个活跃仓库作为基准。鉴于数据的局限性，仅选取了包括 CommitCommentEvent、ForkEvent、IssueCommentEvent、IssuesEvent、PullRequestEvent 和 WatchEvent 六种事件类型的数据进行分析。
 
-![1-17](/image/data/chapter_1/1-17.png)
+![1-17](/public/image/data/chapter_1/1-17.png)
 
 <center>图 1.4 GitLink 平台事件数据分析 </center>
 <br> 
@@ -98,7 +98,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析了全域 GitHub 活跃仓库的数量信息，如下图所示。
 
-![1-4](/image/data/chapter_1/1-4.png)
+![1-4](/public/image/data/chapter_1/1-4.png)
 
 <center>图 1.5 GitHub 年度活跃仓库数量趋势 </center>
 <br>
@@ -112,7 +112,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析 GitHub 和 Gitee 总体活跃仓库活跃度趋势，如下图所示。
 
-![1-5](/image/data/chapter_1/1-5.png)
+![1-5](/public/image/data/chapter_1/1-5.png)
 
 
 
@@ -121,7 +121,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 从每个平台前 3 万个活跃仓库的活跃度数据来看，Gitee 平台的总体活跃度从 2019 年开始迅速增长，并在 2022 年的的时候甚至超越了 GitHub，且继续保持这高增长的趋势，揭示了这个时间中国开源发展的巨大活力。
 
-![1-6](/image/data/chapter_1/1-6.png)
+![1-6](/public/image/data/chapter_1/1-6.png)
 
 <center>图 1.7 GitHub 与 Gitee 活跃仓库活跃度组成对比 </center>
 <br>
@@ -136,7 +136,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析 GitHub 和 Gitee 总体活跃仓库 OpenRank 趋势，如下图所示。
 
-![1-7](/image/data/chapter_1/1-7.png)
+![1-7](/public/image/data/chapter_1/1-7.png)
 
 <center>图 1.8 GitHub 与 Gitee 活跃仓库 OpenRank 对比 </center>
 <br>
@@ -149,7 +149,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析 GitHub 总体活跃用户数量，如下图所示。
 
-![1-8](/image/data/chapter_1/1-8.png)
+![1-8](/public/image/data/chapter_1/1-8.png)
 
 <center>图 1.9 GitHub 年度活跃用户数量趋势 </center>
 <br>
@@ -166,7 +166,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 首先统计分析全球开发者的地域分布，如下图表所示。
 
-![1-9](/image/data/chapter_1/1-9.png)
+![1-9](/public/image/data/chapter_1/1-9.png)
 
 <center> 图 1.10 全球开发者地域分布 </center>
 <br>
@@ -204,7 +204,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 进一步分析，统计中国开发者的地域分布数，如下图表所示。其中，数据来源为“中国”的用户中，正确填写省份信息的开发者，样本数量近 15 万人。
 
-![1-10](/image/data/chapter_1/1-10.png)
+![1-10](/public/image/data/chapter_1/1-10.png)
 
 <center> 图 1.11 中国开发者地域分布 </center>
 <br>
@@ -263,7 +263,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析了开源许可证种类变化趋势，如下图所示。
 
-![1-12](/image/data/chapter_1/1-12.png)
+![1-12](/public/image/data/chapter_1/1-12.png)
 
 <center> 图 1.13 开源许可证种类数量变化趋势 </center>
 <br>
@@ -278,7 +278,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析了 MIT 许可证仓库数量变化趋势，如下图所示。
 
-![1-13](/image/data/chapter_1/1-13.png)
+![1-13](/public/image/data/chapter_1/1-13.png)
 
 <center> 图 1.14 使用 MIT 许可证的仓库数量变化趋势 </center>
 <br>
@@ -291,7 +291,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析了其他前五开源许可证仓库数量变化趋势，如下图所示。
 
-![1-14](/image/data/chapter_1/1-14.png)
+![1-14](/public/image/data/chapter_1/1-14.png)
 
 <center> 图 1.15 使用其他许可证的仓库数量变化趋势 </center>
 <br>
@@ -306,7 +306,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析使用木兰系列许可证仓库数量的变化趋势，如下图所示。
 
-![1-15](/image/data/chapter_1/1-15.png)
+![1-15](/public/image/data/chapter_1/1-15.png)
 
 <center> 图 1.16 使用木兰系列许可证的活跃仓库数量累加图 </center>
 <br>
@@ -353,7 +353,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 统计分析了开发者使用编程语言的趋势，如下图所示。
 
-![1-16](/image/data/chapter_1/1-16.png)
+![1-16](/public/image/data/chapter_1/1-16.png)
 
 <center>图 1.17 2019 - 2023 年开发者使用编程语言趋势</center>
 <br>
@@ -369,13 +369,13 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 ### 2.1 全球开源仓库 OpenRank 排名
 
-![2-1](/image/data/chapter_2/2-1.png)
+![2-1](/public/image/data/chapter_2/2-1.png)
 
 <center> 图 2.1 全球开源项目 OpenRank 排名（Top 20）</center>
 
 ### 2.2 中国开源项目 OpenRank 排名
 
-![2-2](/image/data/chapter_2/2-2.png)
+![2-2](/public/image/data/chapter_2/2-2.png)
 
 <center> 图 2.2 中国开源项目 OpenRank 排名（Top 20）</center>
 <br>
@@ -384,7 +384,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 ### 2.3 全球企业 OpenRank 排名
 
-![2-3](/image/data/chapter_2/2-3.png)
+![2-3](/public/image/data/chapter_2/2-3.png)
 
 <center> 图 2.3 全球企业 OpenRank 排名（Top 20）</center>
 <br>
@@ -393,19 +393,19 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 ### 2.4 中国企业 OpenRank 排名
 
-![2-4](/image/data/chapter_2/2-4.png)
+![2-4](/public/image/data/chapter_2/2-4.png)
 
 <center> 图 2.4 中国企业 OpenRank 排名（Top 20）</center>
 
 ### 2.5 全球基金会 OpenRank 排名
 
-![2-5](/image/data/chapter_2/2-5.png)
+![2-5](/public/image/data/chapter_2/2-5.png)
 
 <center> 图 2.5 全球基金会 OpenRank 排名（Top 10）</center>
 
 ### 2.6 国家和地区 OpenRank 排名
 
-![2-6](/image/data/chapter_2/2-6.png)
+![2-6](/public/image/data/chapter_2/2-6.png)
 
 <center> 图 2.6 国家和地区 OpenRank 排名（Top 20）</center>
 <br>
@@ -414,12 +414,12 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 ### 2.7 全球开发者 OpenRank 排名
 
-![2-7](/image/data/chapter_2/2-7.png)
+![2-7](/public/image/data/chapter_2/2-7.png)
 <center> 图 2.7 全球开发者 OpenRank 排名（Top 30）</center>
 
 ### 2.8 中国开发者 OpenRank 排名
 
-![2-8](/image/data/chapter_2/2-8.png)
+![2-8](/public/image/data/chapter_2/2-8.png)
 <center> 图 2.8 中国开发者 OpenRank 排名（Top 30）</center>
 <br>
 
@@ -431,7 +431,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 ### 3.1 近 10 年全球企业 OpenRank 演变图
 
-![3-1](/image/data/chapter_3/3-1.png)
+![3-1](/public/image/data/chapter_3/3-1.png)
 
 <center> 图 3.1 中国企业 OpenRank 排名变化 </center>
 <br>
@@ -447,7 +447,7 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 ### 3.2 近 10 年中国企业 OpenRank 演变图
 
-![3-2](/image/data/chapter_3/3-2.png)
+![3-2](/public/image/data/chapter_3/3-2.png)
 
 <center> 图 3.2 中国企业 OpenRank 排名变化 </center>
 <br>
@@ -546,11 +546,11 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 ### 5.1 六大技术领域近五年整体发展趋势
 
-![5-1](/image/data/chapter_5/5-1.png)
+![5-1](/public/image/data/chapter_5/5-1.png)
 
 <center> 图 5.1 各子领域近 5 年 OpenRank 变化趋势 </center>
 
-![5-2](/image/data/chapter_5/5-2.png)
+![5-2](/public/image/data/chapter_5/5-2.png)
 <center> 图 5.2 各子领域近 5 年活跃度变化趋势 </center>
 <br>
 
@@ -560,11 +560,11 @@ OpenRank 指标是由 X-lab 开放实验室所研发，基于开源开发者-项
 
 #### 5.2.1 云原生
 
-![5-3](/image/data/chapter_5/5-3.png)
+![5-3](/public/image/data/chapter_5/5-3.png)
 
 <center> 图 5.3 云原生 OpenRank Top10 项目近五年变化趋势 </center>
 
-![5-4](/image/data/chapter_5/5-4.png)
+![5-4](/public/image/data/chapter_5/5-4.png)
 
 <center> 图 5.4 云原生活跃度 Top10 项目近五年变化趋势 </center>
 <br>
@@ -573,11 +573,11 @@ kubernetes 双指标下降明显，Grafana 影响力排名第一。llvm-project 
 
 #### 5.2.2 人工智能
 
-![5-5](/image/data/chapter_5/5-5.png)
+![5-5](/public/image/data/chapter_5/5-5.png)
 
 <center> 图 5.5 人工智能 OpenRank Top10 项目近五年变化趋势 </center>
 
-![5-6](/image/data/chapter_5/5-6.png)
+![5-6](/public/image/data/chapter_5/5-6.png)
 
 <center> 图 5.6 人工智能活跃度 Top10 项目近五年变化趋势 </center>
 <br>
@@ -586,11 +586,11 @@ kubernetes 双指标下降明显，Grafana 影响力排名第一。llvm-project 
 
 #### 5.2.3 大数据
 
-![5-7](/image/data/chapter_5/5-7.png)
+![5-7](/public/image/data/chapter_5/5-7.png)
 
 <center> 图 5.7 大数据 OpenRank Top10 项目近五年变化趋势 </center>
 
-![5-8](/image/data/chapter_5/5-8.png)
+![5-8](/public/image/data/chapter_5/5-8.png)
 
 <center> 图 5.8 大数据活跃度 Top10 项目近五年变化趋势 </center>
 <br>
@@ -603,11 +603,11 @@ Grafana 是一个开源的数据可视化工具，它可以用于监控和报告
 
 #### 5.2.4 数据库
 
-![5-9](/image/data/chapter_5/5-9.png)
+![5-9](/public/image/data/chapter_5/5-9.png)
 
 <center> 图 5.9 数据库 OpenRank Top10 项目近五年变化趋势 </center>
 
-![5-10](/image/data/chapter_5/5-10.png)
+![5-10](/public/image/data/chapter_5/5-10.png)
 
 <center> 图 5.10 数据库活跃度 Top10 项目近五年变化趋势 </center>
 <br>
@@ -621,11 +621,11 @@ Apache Doris 是由百度贡献的开源 MPP 分析型数据库产品，分布�
 
 #### 5.2.5 前端
 
-![5-11](/image/data/chapter_5/5-11.png)
+![5-11](/public/image/data/chapter_5/5-11.png)
 
 <center> 图 5.11 前端 OpenRank Top 10 项目近五年变化趋势 </center>
 
-![5-12](/image/data/chapter_5/5-12.png)
+![5-12](/public/image/data/chapter_5/5-12.png)
 
 
 <center> 图 5.12 前端活跃度 Top 10 项目近五年变化趋势 </center>
@@ -639,12 +639,12 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 #### 5.2.6 操作系统
 
-![5-13](/image/data/chapter_5/5-13.png)
+![5-13](/public/image/data/chapter_5/5-13.png)
 
 <center> 图 5.13 操作系统 OpenRank Top 10 项目近五年变化趋势 </center>
 <br>
 
-![5-14](/image/data/chapter_5/5-14.png)
+![5-14](/public/image/data/chapter_5/5-14.png)
 
 <center> 图 5.14 操作系统活跃度 Top 10 项目近五年变化趋势 </center>
 <br>
@@ -903,11 +903,11 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 #### 6.3.2 数据库领域各子领域下项目近五年变化趋势
 
-![6-6](/image/data/chapter_6/6-6.png)
+![6-6](/public/image/data/chapter_6/6-6.png)
 
 <center> 图 6.6 数据库领域各子领域 2019 - 2023 年 OpenRank 变化趋势 </center>
 
-![6-7](/image/data/chapter_6/6-7.png)
+![6-7](/public/image/data/chapter_6/6-7.png)
 
 <center> 图 6.7 数据库领域各子领域 2019 - 2023 年 Activity 变化趋势 </center>
 <br>
@@ -1087,7 +1087,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 首先将 GitHub 上活跃开发者数量在地图上进行可视化分析，如下图所示。
 
-![7-1.png](/image/data/chapter_7/7-1.png)
+![7-1.png](/public/image/data/chapter_7/7-1.png)
 <center> 图 7.1 2023 GitHub 活跃开发者分布图 </center>
 <br>
 
@@ -1096,7 +1096,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 **2、GitHub 活跃开发者国家 / 地区分布图**
 
 
-![7-2.png](/image/data/chapter_7/7-2.png)
+![7-2.png](/public/image/data/chapter_7/7-2.png)
 
 <center>图 7.2 2023 GitHub 活跃开发者国家 / 地区分布图
 </center>
@@ -1127,7 +1127,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 将 GitHub 活跃开发者分布数量在地图上进行可视化分析，如下图表所示。
 
-![7-4.png](/image/data/chapter_7/7-4.png)
+![7-4.png](/public/image/data/chapter_7/7-4.png)
 
 <center>图 7.3 2023 中国活跃开发者分布图 </center>
 <br>
@@ -1156,7 +1156,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 尝试用各地区开发者的 OpenRank 值做聚合，得到中国开发者影响力分布图与地区排名，如下图表所示。
 
-![7-3.png](/image/data/chapter_7/7-3.png)
+![7-3.png](/public/image/data/chapter_7/7-3.png)
 
 <center> 图 7.4 中国开发者 OpenRank 影响力分布图 </center>
 <br>
@@ -1193,14 +1193,14 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 统计 GitHub 全域开发者工作时间，可以看出 GitHub 开发者工作时长分布在 6 时到 21 时更普遍，12 点更为集中，可能是受到定时任务的影响。周六周日相对更不活跃。
 
-![7-5.png](/image/data/chapter_7/7-5.png)
+![7-5.png](/public/image/data/chapter_7/7-5.png)
 
 <center>图 7.5 GitHub 全域开发者 2023 年工作时间打点图</center>
 <br>
 
 **Gitee 全域开发者工作时间分布**
 
-![7-6.png](/image/data/chapter_7/7-6.png)
+![7-6.png](/public/image/data/chapter_7/7-6.png)
 
 <center>图 7.6 Gitee 全域开发者 2023 年工作时间打点图</center>
 <br>
@@ -1209,7 +1209,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 **除去机器人的全域开发者时间分布**
 
-![7-7.png](/image/data/chapter_7/7-7.png)
+![7-7.png](/public/image/data/chapter_7/7-7.png)
 
 <center>图 7.7 除去机器人的全域开发者 2023 年工作时间打点图</center>
 <br>
@@ -1224,28 +1224,28 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 1. NixOS/nixpkgs
 
-![7-8.png](/image/data/chapter_7/7-8.png)
+![7-8.png](/public/image/data/chapter_7/7-8.png)
 
 <center>图 7.8 NixOS/nixpkgs 2023 年工作时间打点图</center>
 <br>
 
 2. home-assistant/core
 
-![7-9.png](/image/data/chapter_7/7-9.png)
+![7-9.png](/public/image/data/chapter_7/7-9.png)
 
 <center>图 7.9 home-assistant/core 2023 年工作时间打点图</center>
 <br>
 
 3. microsoft/vscode
 
-![7-10.png](/image/data/chapter_7/7-10.png)
+![7-10.png](/public/image/data/chapter_7/7-10.png)
 
 <center>图 7.10 microsoft/vscode 2023 年工作时间打点图</center>
 <br>
 
 4. MicrosoftDocs/azure-docs
 
-![7-11.png](/image/data/chapter_7/7-11.png)
+![7-11.png](/public/image/data/chapter_7/7-11.png)
 
 <center>图 7.11 MicrosoftDocs/azure-docss 2023 年工作时间打点图</center>
 <br>
@@ -1254,28 +1254,28 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 1. openHarmony
 
-![7-12.png](/image/data/chapter_7/7-12.png)
+![7-12.png](/public/image/data/chapter_7/7-12.png)
 
 <center>图 7.12 openHarmony 2023 年工作时间打点图</center>
 <br>
 
 2. openEuler
 
-![7-13.png](/image/data/chapter_7/7-13.png)
+![7-13.png](/public/image/data/chapter_7/7-13.png)
 
 <center>图 7.13 openEuler 2023 年工作时间打点图</center>
 <br>
 
 3. PaddlePaddle
 
-![7-14.png](/image/data/chapter_7/7-14.png)
+![7-14.png](/public/image/data/chapter_7/7-14.png)
 
 <center>图 7.14 PaddlePaddle 2023 年工作时间打点图</center>
 <br>
 
 4. MindSpore
 
-![7-15.png](/image/data/chapter_7/7-15.png)
+![7-15.png](/public/image/data/chapter_7/7-15.png)
 
 <center>图 7.15 MindSpore 2023 年工作时间打点图</center>
 <br>
@@ -1297,7 +1297,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 一般情况下，四种关系层层递进，结构如下图所示。基于所定义的角色体系，我们从角色数量、时间变化、开发者角色演化三个视角对 GitHub 全域项目中 OpenRank 排名前十的项目进行量化，即第二部分中的项目排名榜单。
 
-![7-16.png](/image/data/chapter_7/7-16.png)
+![7-16.png](/public/image/data/chapter_7/7-16.png)
 
 <center>图 7.16 开发者类型关系</center>
 <br>
@@ -1323,7 +1323,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 <br>
 
-![7-17.png](/image/data/chapter_7/7-17.png)
+![7-17.png](/public/image/data/chapter_7/7-17.png)
 
 <center> 图 7.17 开发者角色分布图 </center>
 <br>
@@ -1341,7 +1341,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 详细角色新增情况如下图和下表所示。
 
-![7-18.png](/image/data/chapter_7/7-18.png)
+![7-18.png](/public/image/data/chapter_7/7-18.png)
 
 <center>图 7.18 2023 年开源社区角色新增图 </center>
 <br>
@@ -1375,7 +1375,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 开发者演化过程定义为：一个开源社区中有多少角色转向其他角色。本报告中我们只度量某一角色转向更深层次角色的开发者。例如某用户 2023 年以前是参与者 ，到了 2023 年该用户提出了自己第一个 PR ，因此由参与者转变为贡献者。
 
-![7-19.png](/image/data/chapter_7/7-25.png)
+![7-19.png](/public/image/data/chapter_7/7-25.png)
 
 
 <center> 图 7.19 开发者角色演化图 </center>
@@ -1427,7 +1427,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 #### 7.4.2 机器人事件类型分析
 
-![7-22.png](/image/data/chapter_7/7-22.png)
+![7-22.png](/public/image/data/chapter_7/7-22.png)
 
 <center> 图 7.21 GitHub 事件计数的数量和年度增长率（%）的差异（2022 vs 2023）</center>
 <br>
@@ -1447,7 +1447,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 类似开发者工作时间分布，可以对机器人的工作时间数据进行分析。
 
-![7-23.png](/image/data/chapter_7/7-23.png)
+![7-23.png](/public/image/data/chapter_7/7-23.png)
 
 <center> 图 7.22 机器人账号工作时间分布 </center>
 <br>
@@ -1458,7 +1458,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 #### 7.4.4 GitHub 协作机器人事件数量排行榜
 
-![7-24.png](/image/data/chapter_7/7-24.png)
+![7-24.png](/public/image/data/chapter_7/7-24.png)
 
 <center>图 7.23 2023 年 GitHub 协作机器人事件数量排行榜</center>
 <br>
@@ -1483,7 +1483,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 我们使用目前已采集的近千万 GitHub 开发者账号的详细信息，其中包含了中国开发者账号近 20 万，通过分析这 20 万开发者在 2023 年 OpenRank 贡献度情况，获得中国开发者贡献仓库总榜如下：
 
-![8-1.png](/image/data/chapter_8/8-1.png)
+![8-1.png](/public/image/data/chapter_8/8-1.png)
 
 <center>图 8.1 GitHub 中国开发者贡献仓库排行榜（Top 30）</center>
 <br>
@@ -1512,7 +1512,7 @@ Next.js 是由 Vercel 创建的开源平台，它使用 Node.js 和 Babel 转译
 
 - [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 这个项目很有意思，是明日方舟这款游戏的一个自动化刷日常任务的脚本助手项目，可以在手机模拟器上进行游戏日常任务的自动化执行。这个仓库超过 10k star，每月稳定有 300 多人活跃，非常惊人的活跃度。而且项目完全开源免费，社区维护，且支持所有桌面平台。
 
-![8-3.png](/image/data/chapter_8/8-3.png)
+![8-3.png](/public/image/data/chapter_8/8-3.png)
 
 <center>图 8.3 MaaAssistantArknights 项目截图
 </center>
